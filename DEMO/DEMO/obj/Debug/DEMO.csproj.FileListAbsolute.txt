@@ -1,0 +1,13 @@
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\bin\Debug\DEMO.exe.config
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\bin\Debug\DEMO.exe
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\bin\Debug\DEMO.pdb
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.csprojResolveAssemblyReference.cache
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.Form1.resources
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.csproj.GenerateResource.Cache
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.exe
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.pdb
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.Training.resources
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.TestCreate.resources
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.RocAn.resources
+E:\ЛАБЫ\4ый курс\КУРСАЧЬ\Демо\DEMO\DEMO\obj\Debug\DEMO.Metod.resources
